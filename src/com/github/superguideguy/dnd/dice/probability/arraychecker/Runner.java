@@ -7,7 +7,7 @@
 *
 * SPDX-License-Identifier: EPL-2.0
 **********************************************************************/
-package arraychecker;
+package com.github.superguideguy.dnd.dice.probability.arraychecker;
 
 import java.math.BigInteger;
 
